@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uCf5NfKCjtR0tfV7cGx8Hd1DmdTpBSgFAtqFhTi6Z7VB6+EjVjfj6DHF+N//QMHuDZeZScWmYOM6Ga+KCdMu1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KruegeLe\\OneDrive - andagon people GmbH\\Projekte\\AquaREST-API\\APITest\\APITest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KruegeLe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KruegeLe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
